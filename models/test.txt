@@ -1,0 +1,12 @@
+
+| Dataset Name                  | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%)   | Data Source    | 
+|-------------------------------|---------------|------------------|----------------|-------------------------|----------------|
+| Patient Syndrome Description  | 2.6 million   | 1,820,000        | 520,000        | 260,000                 | [PSD](https://docs.google.com/spreadsheets/d/19U7Z5Zz2QXm2DQT52fHASZZ-NjrcY1G8/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | 
+| Diagnosis Q&A                 | 1.73 million  | 1,211,000        | 346,000        | 173,000                 | [Q&A](https://docs.google.com/spreadsheets/d/1hYNXeobhHPBM1uiHa_YLZFbPh--Jmal2/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | 
+
+
+| Dataset Name | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%)  | Data Source     |
+|--------------|---------------|-----------------|----------------|-----------------------|-----------------|
+| MedQuAD      | 114,000       | 91,200          | 22,800         | 11,400                | [MedQuAD](https://github.com/abachaa/MedQuAD)|
+* Download the ``Symptom.spo`` from [here](https://share.weiyun.com/5BvtHyO), and save it to the ``brain/kgs/`` directory.
+* Optional - Download the datasets for evaluation from [here](https://share.weiyun.com/5Id9PVZ), unzip and place them in the ``datasets/`` directory.

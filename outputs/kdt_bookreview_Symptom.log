@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "run_kbert_cls.py", line 20, in <module>
+    from brain import KnowledgeGraph
+  File "/data/K-BERT/brain/__init__.py", line 2, in <module>
+    from brain.knowgraph import KnowledgeGraph
+  File "/data/K-BERT/brain/knowgraph.py", line 7, in <module>
+    import pkuseg
+ModuleNotFoundError: No module named 'pkuseg'
